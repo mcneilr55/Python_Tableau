@@ -50,7 +50,6 @@ RoundMarkup = round(data['Markup'], 2)
 data['Markup'] = RoundMarkup
 
 #combining data fields
-my_name = 'Deez'+'Nutz'
 my_date='Day'+'-'+'Month'+'-'+'Year'
 
 day = data['Day'].astype(str)
